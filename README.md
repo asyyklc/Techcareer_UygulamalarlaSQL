@@ -5,7 +5,7 @@ Bu proje, SQL uygulamalarıyla veritabanı işlemlerini ve veri analizlerini gö
 ## Proje Dosyaları
 
 - **proje.sql**  
-  Tüm veritabanı işlemlerini ve temel SQL uygulamalarını içerir.  
+  Tüm veritabanı işlemlerini, temel SQL uygulamalarını ve veritabanı diyagramını içerir.  
 
 - **excel.xlsx**  
   Verileri SQL’e aktarmak için oluşturulmuş Excel tablolarını içerir.  
