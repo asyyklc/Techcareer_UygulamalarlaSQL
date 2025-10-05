@@ -13,7 +13,7 @@ Bu proje, SQL uygulamalarıyla veritabanı işlemlerini ve veri analizlerini gö
 - **raporlamasorguları.sql**  
   JOIN, GROUP BY, HAVING gibi SQL sorgularının kullanıldığı raporlama örneklerini içerir.  
 
-- **dokumantasyon.docx**  
+- **dökümantasyon.docx**  
   Projeyi nasıl gerçekleştirdiğimi, adım adım açıklamaları ve proje ile ilgili notları içerir.
   
 
